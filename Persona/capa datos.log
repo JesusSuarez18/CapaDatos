@@ -1,0 +1,28 @@
+04:35:52 PM DEBUG [persona.py:50] 
+        ID: 1 , Nombre: Jesus, 
+        Apellido: Suarez Email: jessuare@mail.com
+        
+05:31:28 PM DEBUG [persona.py:52] 
+        ID: 1 , Nombre: Jesus, 
+        Apellido: Suarez Email: jessuare@mail.com
+        
+05:31:28 PM DEBUG [persona.py:55] 
+        ID: None , Nombre: Sol, 
+        Apellido: Calderon Email: s.calderon@mail.com
+        
+08:03:45 PM DEBUG [persona.py:52] 
+        ID: 1 , Nombre: Jesus, 
+        Apellido: Suarez,  Email: jessuare@mail.com
+        
+08:03:45 PM DEBUG [persona.py:55] 
+        ID: None , Nombre: Sol, 
+        Apellido: Calderon,  Email: s.calderon@mail.com
+        
+04:35:24 PM DEBUG [persona.py:52] 
+        ID: 1 , Nombre: Jesus, 
+        Apellido: Suarez,  Email: jessuare@mail.com
+        
+04:35:24 PM DEBUG [persona.py:55] 
+        ID: None , Nombre: Sol, 
+        Apellido: Calderon,  Email: s.calderon@mail.com
+        
