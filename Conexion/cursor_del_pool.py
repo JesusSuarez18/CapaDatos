@@ -19,7 +19,8 @@ class CursorDelPool:
         if valor_excepción:
             self._conexion.rollback()
             log.error(
-                f'Ocurrió una excepcion de tipo, se realiza un rollback :{valor_excepción} {tipo_excepcion} {detalle_excepcion}')
+                f"""Ocurrió una excepcion de tipo, se realiza un rollback :
+                {valor_excepción} {tipo_excepcion} {detalle_excepcion}""")
         else:
             self._conexion.commit()
             log.debug(f'Commit de la transacción')
