@@ -57,7 +57,7 @@ if __name__ == '__main__':
     # log.debug(f'Personas insertadas: {personas_insertadas}')
 
     # Actualizar registro
-    persona1 = Persona(4,nombre='Eyker',apellido='Fonseca', email='e.fonseca@mail.edu')
+    persona1 = Persona(4, nombre='Eyker', apellido='Fonseca', email='e.fonseca@mail.edu')
     personas_actualizadas = PersonaDAO.actualizar(persona1)
     log.debug(f'Personas Actualizadas: {personas_actualizadas}')
 
